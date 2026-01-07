@@ -1,0 +1,17 @@
+<EasyInstall>
+    <Name>Arabic Localization</Name>
+    <Author>Redemption Team</Author>
+    <Version>1.0.0</Version>
+    <Link></Link>
+    <Metadata>
+    </Metadata>
+    <Resources>
+        <Resource>
+            <StreamingFiles>stream</StreamingFiles>
+            <FileReplacement>
+                <GamePath>update:/x64/patch/data/cdimages/scaleform_frontend/font_lib_efigs.gfx</GamePath>
+                <FilePath>asset_replace/font_lib_efigs.gfx</FilePath>
+            </FileReplacement>
+        </Resource>
+    </Resources>
+</EasyInstall>

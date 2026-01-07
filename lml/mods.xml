@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModsManager>
+  <Mods>
+    <Mod folder="Font">
+      <Name>Redemption Team Arabic localization</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+    <Mod folder="Text">
+      <Name>Redemption Team</Name>
+      <Enabled>true</Enabled>
+      <Overwrite>false</Overwrite>
+      <DisabledGroups />
+    </Mod>
+  </Mods>
+  <LoadOrder>
+    <Mod>Font</Mod>
+    <Mod>Text</Mod>
+  </LoadOrder>
+</ModsManager>
